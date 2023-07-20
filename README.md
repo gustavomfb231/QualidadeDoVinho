@@ -1,2 +1,2 @@
 # QualidadeDoVinho
-Trabalhando com análise, exploração e criação de modelos para Machine Learning
+Projeto de classificação multiclasse e binária visando melhor performance para classificação quanto a qualidade do vinho e quanto a ele ser tinto ou não, também é demonstrado a utilização de técnicas de oversampling e undersampling de maneira a ter uma melhor generalização dos dados por parte do modelo. Também é demonstrado como funciona a criação de um modelo de classificação KNeighbors.
